@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-06-16T13:54:46.107947+00:00",
+  "workflow": "nf-core/rnaseq",
+  "workflow_version": "3.26.0",
+  "route": "STAR + Salmon",
+  "outdir": "/mnt/f/RNA_Seq/Autophagy/results_star_salmon",
+  "samples": [
+    "29-81T-Con",
+    "30-81T-NC",
+    "33-KYSE-Con",
+    "34-KYSE-NC",
+    "31-OE21-Con",
+    "32-OE21-NC"
+  ],
+  "validated_samplesheet": "/mnt/f/RNA_Seq/Autophagy/results_star_salmon/samplesheets/samplesheet_with_bams.csv",
+  "reference": {
+    "release": "GENCODE human Release 49 GRCh38",
+    "fasta": "references/gencode_v49/GRCh38.primary_assembly.genome.fa.gz",
+    "gtf": "references/gencode_v49/gencode.annotation.gtf.gz",
+    "checksums": [
+      {
+        "sha256": "3023c0705e83e86309271b09e25bdf678945fac98ce2fe5bb6b6e068f2225452",
+        "file": "GRCh38.primary_assembly.genome.fa.gz"
+      },
+      {
+        "sha256": "5cabe88e93064851dc6cb826efe0e8b7babf7985e73df280cfb05910d05cd023",
+        "file": "gencode.v49.primary_assembly.annotation.gtf.gz"
+      },
+      {
+        "sha256": "5cabe88e93064851dc6cb826efe0e8b7babf7985e73df280cfb05910d05cd023",
+        "file": "gencode.annotation.gtf.gz"
+      }
+    ]
+  },
+  "artifact_index": "/mnt/f/RNA_Seq/Autophagy/results_star_salmon/artifact_index.json",
+  "resource_plan": "/mnt/f/RNA_Seq/Autophagy/results_star_salmon/resources/resource_plan.json"
+}

@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness,seq_platform
+29-81T-Con,/mnt/f/RNA_Seq/Autophagy/raw_fastq/29-81T-Con_23H2JMLT4_L2_R1.fastq.gz,/mnt/f/RNA_Seq/Autophagy/raw_fastq/29-81T-Con_23H2JMLT4_L2_R2.fastq.gz,auto,ILLUMINA
+30-81T-NC,/mnt/f/RNA_Seq/Autophagy/raw_fastq/30-81T-NC_23H2JMLT4_L2_R1.fastq.gz,/mnt/f/RNA_Seq/Autophagy/raw_fastq/30-81T-NC_23H2JMLT4_L2_R2.fastq.gz,auto,ILLUMINA
+31-OE21-Con,/mnt/f/RNA_Seq/Autophagy/raw_fastq/31-OE21-Con_23H2JMLT4_L2_R1.fastq.gz,/mnt/f/RNA_Seq/Autophagy/raw_fastq/31-OE21-Con_23H2JMLT4_L2_R2.fastq.gz,auto,ILLUMINA
+32-OE21-NC,/mnt/f/RNA_Seq/Autophagy/raw_fastq/32-OE21-NC_23H2JMLT4_L2_R1.fastq.gz,/mnt/f/RNA_Seq/Autophagy/raw_fastq/32-OE21-NC_23H2JMLT4_L2_R2.fastq.gz,auto,ILLUMINA
+33-KYSE-Con,/mnt/f/RNA_Seq/Autophagy/raw_fastq/33-KYSE-Con_23H2JMLT4_L2_R1.fastq.gz,/mnt/f/RNA_Seq/Autophagy/raw_fastq/33-KYSE-Con_23H2JMLT4_L2_R2.fastq.gz,auto,ILLUMINA
+34-KYSE-NC,/mnt/f/RNA_Seq/Autophagy/raw_fastq/34-KYSE-NC_23H2JMLT4_L2_R1.fastq.gz,/mnt/f/RNA_Seq/Autophagy/raw_fastq/34-KYSE-NC_23H2JMLT4_L2_R2.fastq.gz,auto,ILLUMINA

@@ -1,0 +1,17 @@
+package	available	version
+BiocManager	TRUE	1.30.27
+clusterProfiler	TRUE	4.12.6
+ReactomePA	TRUE	1.48.0
+reactome.db	TRUE	1.88.0
+org.Hs.eg.db	TRUE	3.19.1
+msigdbr	TRUE	26.1.0
+enrichplot	TRUE	1.24.4
+fgsea	TRUE	1.30.0
+pheatmap	TRUE	1.0.13
+ComplexHeatmap	TRUE	2.20.0
+ggplot2	TRUE	4.0.3
+ggrepel	TRUE	0.9.8
+dplyr	TRUE	1.2.1
+readr	TRUE	2.2.0
+tidyr	TRUE	1.3.2
+stringr	TRUE	1.6.0

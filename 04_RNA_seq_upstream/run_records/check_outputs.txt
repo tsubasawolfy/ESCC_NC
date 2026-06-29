@@ -1,0 +1,8 @@
+outputs_ok
+samples=29-81T-Con,30-81T-NC,33-KYSE-Con,34-KYSE-NC,31-OE21-Con,32-OE21-NC
+multiqc_report=ok
+nextflow_report=ok
+nextflow_timeline=ok
+nextflow_trace=ok
+salmon_outputs=ok
+star_outputs=ok
